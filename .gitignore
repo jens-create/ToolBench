@@ -8,3 +8,7 @@ run.bash
 
 *.pyc
 **/__pycache__
+credentials.txt
+.vscode/
+mutagen.yml
+mutagen.yml.lock
